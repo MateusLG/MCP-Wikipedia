@@ -4,6 +4,8 @@ venv/
 # Arquivo de segredos e variáveis de ambiente
 .env
 
-# Cache do Python
+# Python
 __pycache__/
 *.pyc
+.python-version
+pyproject.toml
