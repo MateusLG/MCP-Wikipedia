@@ -68,4 +68,4 @@ O projeto é dividido em um **cliente** e um **servidor**, mas o cliente foi pro
 Basta executar o script do cliente (`cliente.py`) e passar o script do servidor (`servidor.py`) como argumento:
 
 ```bash
-python cliente.py servidor.py
+uv run cliente.py servidor.py
