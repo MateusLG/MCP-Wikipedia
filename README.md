@@ -31,7 +31,7 @@ Siga estes passos para configurar e rodar o projeto localmente.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/MateusLG/MCP-Wikipedia.git](https://github.com/MateusLG/MCP-Wikipedia.git)
+    git clone https://github.com/MateusLG/MCP-Wikipedia.git
     cd MCP-Wikipedia
     ```
 
